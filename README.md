@@ -1,6 +1,6 @@
 # r3pi-test
 
-Written and tested with node v7.4.0
+Written and tested with node v7.4.0, though previous versions will probably be fine, but YMMV.
 
 ```
 npm install         # installs dependencies
