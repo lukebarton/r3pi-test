@@ -1,0 +1,13 @@
+r3pi-test λ npm start
+
+> r3pi-test@1.0.0 start /Users/lukebarton/dev/r3pi-test
+> node dist/main.js
+
+Name                                Qty   Price      Total
+Apple                               3     £0.25      £0.75
+Orange                              3     £0.30      £0.90
+Garlic                              5     £0.15      £0.75
+Papaya                              6     £0.50      £3.00
+* Buy 2 Papayas, get 1 free         2     -£0.50     -£1.00
+------------------------------------------------------------
+Total                                                £4.40
